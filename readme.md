@@ -1,0 +1,1 @@
+This GitHub repository contains a JavaScript script that validates emails using SFTP (Secure File Transfer Protocol). The script is designed to take an email list as input and segregate the verified and unverified emails into separate lists.
